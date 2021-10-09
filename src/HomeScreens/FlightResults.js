@@ -18,6 +18,7 @@ class FlightResults extends Component {
     super();
     this.state = {
       flightResults: [],
+
       noDataFound: false,
 
       loading: true,
